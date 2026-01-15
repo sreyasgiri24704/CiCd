@@ -8,7 +8,8 @@ function App() {
   return (
     <>
       <div>
-        <p>Hello Nigga!</p>
+        <p>Hello Nigga!</p></br>
+        <p>You want chicken and watermelon?</p>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
