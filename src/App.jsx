@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <p>Hello Brother!</p><br />
+        <p>Hello Sister!</p><br />
         <p>You want chicken and watermelon?</p>
       </div>
       <h1>Vite + React</h1>
